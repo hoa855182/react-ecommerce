@@ -1,13 +1,13 @@
 import React from "react";
-import Maincontent from "../../layout/admin/MainContent";
+import Maincontent from "../../layout/admin/MainLayout.jsx";
 
 
 
 function Dashboard() {
     return (
-        <Maincontent>
-            Dashboard
-        </Maincontent>
+        <div>
+            <h1>Dashboard</h1>
+        </div>
     );
 }
 

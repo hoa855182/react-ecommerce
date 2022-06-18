@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../../layout/frontend/Navbar";
+import Navbar from "../../layout/frontend/NavbarHome";
 function Home(){
     return(
         <div>
